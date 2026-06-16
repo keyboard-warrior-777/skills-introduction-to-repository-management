@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @keyboard-warrior-777
+/src/backend/database.py      @keyboard-warrior-777
+/src/backend/routers/auth.py  @keyboard-warrior-777
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @keyboard-warrior-777
